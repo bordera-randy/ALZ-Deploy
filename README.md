@@ -1,28 +1,12 @@
-# Project Title
+# ALZ-Deploy
 
-A brief description of what this project does and who it's for.
+Deploy the landing zone to Azure for a new Azure tenant using Terraform in accordance with the Cloud Adoption Framework.
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Installation
-
-Instructions on how to install and set up the project.
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
-
-# Navigate to the project directory
-cd your-repo
-
-# Install dependencies
-npm install
-```
 
 ## Usage
 
